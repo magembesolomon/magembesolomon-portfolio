@@ -384,7 +384,9 @@ body.dark-theme {
 }
 
 .skills__data {
-  display: flex;
+
+  align-items: center;
+  justify-content: center;
   column-gap: .5rem;
 }
 
