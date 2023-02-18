@@ -1,0 +1,33 @@
+
+
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /downloads/
+Disallow: /cgi-bin/
+Disallow: /backup/
+Disallow: /images/
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /temp/
+Disallow: /test/
+Disallow: /docs/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /logs/
+Disallow: /stats/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-json/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /category/
+Disallow: /tag/
+Disallow: /page/
+Disallow: /author/
+Disallow: /search/
+Disallow: /archives/
+
+Sitemap: https://magembesolomon.netlify.app/sitemap.xml
